@@ -354,6 +354,15 @@
       ],
       "accessibility" : [
         {
+          "text" : "Presentacja Atacana",
+          "targetRectangle" : {
+            "y" : 624.50266532103285,
+            "x" : 703.7679969313939,
+            "width" : 220.46400000000006,
+            "height" : 28.3280029296875
+          }
+        },
+        {
           "text" : "Mój pokój i ",
           "targetRectangle" : {
             "y" : 223,
@@ -369,15 +378,6 @@
             "x" : 107.4951999999999,
             "width" : 809.00960000000032,
             "height" : 92.725854492187523
-          }
-        },
-        {
-          "text" : "Presentacja Atacana",
-          "targetRectangle" : {
-            "y" : 624.50266532103285,
-            "x" : 703.7679969313939,
-            "width" : 220.46400000000006,
-            "height" : 28.3280029296875
           }
         }
       ],

@@ -601,21 +601,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Stary Żoliborz, Warsaw",
-          "targetRectangle" : {
-            "y" : 65.848083436489105,
-            "x" : 379.79599618911743,
-            "width" : 264.40800000000013,
-            "height" : 28.3038330078125
-          }
-        },
-        {
           "text" : "Ekran Resmi 2018-05-24 13.56.58.png",
           "targetRectangle" : {
             "y" : 129.31669616699219,
             "x" : 37.59478759765625,
             "width" : 948.8104248046875,
             "height" : 581.36663818359375
+          }
+        },
+        {
+          "text" : "Stary Żoliborz, Warsaw",
+          "targetRectangle" : {
+            "y" : 65.848083436489105,
+            "x" : 379.79599618911743,
+            "width" : 264.40800000000013,
+            "height" : 28.3038330078125
           }
         }
       ],
@@ -2102,21 +2102,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Stary Żoliborz, Warsaw",
-          "targetRectangle" : {
-            "y" : 65.848083436489105,
-            "x" : 379.79599618911743,
-            "width" : 264.40800000000013,
-            "height" : 28.3038330078125
-          }
-        },
-        {
           "text" : "Ekran Resmi 2018-05-24 13.56.58.png",
           "targetRectangle" : {
             "y" : 129.31669616699219,
             "x" : 37.59478759765625,
             "width" : 948.8104248046875,
             "height" : 581.36663818359375
+          }
+        },
+        {
+          "text" : "Stary Żoliborz, Warsaw",
+          "targetRectangle" : {
+            "y" : 65.848083436489105,
+            "x" : 379.79599618911743,
+            "width" : 264.40800000000013,
+            "height" : 28.3038330078125
           }
         }
       ],
@@ -3644,15 +3644,6 @@
       ],
       "accessibility" : [
         {
-          "text" : "Stary Żoliborz, Warsaw",
-          "targetRectangle" : {
-            "y" : 65.848083436489105,
-            "x" : 379.79599618911743,
-            "width" : 264.40800000000013,
-            "height" : 28.3038330078125
-          }
-        },
-        {
           "text" : "pasted-image.tiff",
           "targetRectangle" : {
             "y" : 202.03872680664062,
@@ -3668,6 +3659,15 @@
             "x" : 37.59478759765625,
             "width" : 948.8104248046875,
             "height" : 581.36663818359375
+          }
+        },
+        {
+          "text" : "Stary Żoliborz, Warsaw",
+          "targetRectangle" : {
+            "y" : 65.848083436489105,
+            "x" : 379.79599618911743,
+            "width" : 264.40800000000013,
+            "height" : 28.3038330078125
           }
         }
       ],
