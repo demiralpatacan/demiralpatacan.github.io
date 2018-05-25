@@ -2,7 +2,7 @@
   "assets" : {
     "870106AF76A7D2CB512C8504224A0B16" : {
       "type" : "texture",
-      "index" : 6,
+      "index" : 7,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -30,7 +30,7 @@
     },
     "3D46FD209ADE20F362323B2C7B5DDC01" : {
       "type" : "texture",
-      "index" : 7,
+      "index" : 1,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -114,7 +114,7 @@
     },
     "A0C81AF2E314B1E72F90A8C045F6FB66" : {
       "type" : "texture",
-      "index" : 1,
+      "index" : 6,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -123,8 +123,8 @@
       "url" : {
         "native" : "assets\/21AD1DFB-96A8-43A7-BB1C-A2EADFC16C51.pdf"
       },
-      "width" : 916,
-      "height" : 656
+      "width" : 508,
+      "height" : 45
     },
     "498E23C82CA78A4BCD7BA88E5243B6FC" : {
       "type" : "texture",
@@ -865,7 +865,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "A0C81AF2E314B1E72F90A8C045F6FB66"
+                    "texture" : "3D46FD209ADE20F362323B2C7B5DDC01"
                   }
                 ]
               }
@@ -1781,7 +1781,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "870106AF76A7D2CB512C8504224A0B16"
+                    "texture" : "A0C81AF2E314B1E72F90A8C045F6FB66"
                   }
                 ]
               }
