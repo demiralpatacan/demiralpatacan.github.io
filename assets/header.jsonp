@@ -1,7 +1,7 @@
 local_header( {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-43-25 2:5:2",
+  "timestamp" : "2018-50-25 2:5:0",
   "loopSlideshow" : 0,
   "filename" : "Polish_Presentation_Atacan",
   "autoplayBuildDelay" : 2,
@@ -13,7 +13,8 @@ local_header( {
     "4B4AC4F7-499F-4AD9-9AB4-4094AAB2E099",
     "7D643FA7-9A1F-45A5-A30F-7828735F3C35",
     "63B95F7E-6B81-40B4-9F61-A8EEC2706E7C",
-    "21AD1DFB-96A8-43A7-BB1C-A2EADFC16C51"
+    "21AD1DFB-96A8-43A7-BB1C-A2EADFC16C51",
+    "45CFBFDA-D7DD-42E0-AFBF-66359CE8883A"
   ],
   "soundtrack" : {
     "mode" : 0,
@@ -21,7 +22,7 @@ local_header( {
   },
   "slideWidth" : 1024,
   "slideHeight" : 768,
-  "slideCount" : 4,
+  "slideCount" : 5,
   "majorVersion" : 1,
   "minorVersion" : 2,
   "fonts" : [
